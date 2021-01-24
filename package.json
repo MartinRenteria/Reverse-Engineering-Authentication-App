@@ -1,0 +1,25 @@
+{
+  "name": "reverse-engineering-authentication-app",
+  "version": "1.0.0",
+  "description": "Reverse Engineering Code!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinRenteria/Reverse-Engineering-Authentication-App.git"
+  },
+  "author": "Martin Renteria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartinRenteria/Reverse-Engineering-Authentication-App/issues"
+  },
+  "homepage": "https://github.com/MartinRenteria/Reverse-Engineering-Authentication-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "passport": "^0.4.1",
+    "sequelize": "^6.4.0"
+  }
+}
